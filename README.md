@@ -1,6 +1,6 @@
 <kbd>
 <p align="center">
-  <img width="100%" alt="Hello, I'm Dobby. I'm a newbie Java dev!" src="/Hi there! (1).png" />
+  <img width="100%" alt="Hello, I'm Dobby. I'm a newbie Java dev!" src="/Hi there!.png" />
 </p>
 </kbd>
 <!--
