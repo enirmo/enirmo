@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hello, I'm Dobby. I'm a newbie Java dev!" src="./assets/gh-readme-header.png" />
+  <img width="80%" alt="Hello, I'm Dobby. I'm a newbie Java dev!" src="/Hi there!.png" />
 </p>
 
 <!--
