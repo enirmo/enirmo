@@ -11,7 +11,7 @@
 ## Tech Stack
 
 
-<p>
+<p align="center">
   <img src="./assets/icons/java.svg" height="40" alt="Java" title="Java" />
   <img src="./assets/icons/NET.svg" height="40" alt=".NET" title=".NET" />
   <img src="./assets/icons/racket.svg" height="40" alt="Racket" title="Racket" />
