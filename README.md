@@ -16,22 +16,12 @@
   <img src="./assets/icons/NET.svg" height="40" alt=".NET" title=".NET" />
   <img src="./assets/icons/racket.svg" height="40" alt="Racket" title="Racket" />
   <img src="./assets/icons/python.svg" height="40" alt="Python" title="Python" />
-
-</p>
-
-<p>
   <img src="./assets/icons/spring.svg" height="40" alt="Spring" title="Spring" />
   <img src="./assets/icons/thymeleaf.svg" height="40" alt="Thymeleaf" title="Thymeleaf" />
-</p>
-
-<p>
   <img src="./assets/icons/docker.svg" height="40" alt="Docker" title="Docker" />
   <img src="./assets/icons/postman.svg" height="40" alt="Postman" title="Postman" />
   <img src="./assets/icons/nuget.svg" height="40" alt="NuGet" title="Nuget" />
   <img src="./assets/icons/canva.svg" height="40" alt="Canva" title="Canva" />
-</p>
-
-<p>
   <img src="./assets/icons/mysql.svg" height="40" alt="MySQL" title="MySQL" />
 </p>
 
