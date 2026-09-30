@@ -10,30 +10,29 @@
 
 ## Tech Stack
 
-<!--
+
 <p>
-  <img src="./assets/icons/java.svg" height="40" alt="React" title="Java" />
-  <img src="./assets/icons/NET.svg" height="40" alt="TypeScript" title=".NET" />
-  <img src="./assets/icons/racket.svg" height="40" alt="Node.js" title="Racket" />
-  <img src="./assets/icons/python.svg" height="40" alt="PostgreSQL" title="Python" />
+  <img src="./assets/icons/java.svg" height="40" alt="Java" title="Java" />
+  <img src="./assets/icons/NET.svg" height="40" alt=".NET" title=".NET" />
+  <img src="./assets/icons/racket.svg" height="40" alt="Racket" title="Racket" />
+  <img src="./assets/icons/python.svg" height="40" alt="Python" title="Python" />
 
 </p>
 
 <p>
-  <img src="./assets/icons/spring.svg" height="40" alt="Docker" title="Spring" />
-  <img src="./assets/icons/thymeleaf.svg" height="40" alt="TypeScript" title="Thymeleaf" />
+  <img src="./assets/icons/spring.svg" height="40" alt="Spring" title="Spring" />
+  <img src="./assets/icons/thymeleaf.svg" height="40" alt="Thymeleaf" title="Thymeleaf" />
 </p>
 
 <p>
   <img src="./assets/icons/docker.svg" height="40" alt="Docker" title="Docker" />
-  <img src="./assets/icons/postman.svg" height="40" alt="TypeScript" title="Postman" />
-  <img src="./assets/icons/nuget.svg" height="40" alt="Docker" title="Nuget" />
-  <img src="./assets/icons/canva.svg" height="40" alt="Docker" title="Canva" />
+  <img src="./assets/icons/postman.svg" height="40" alt="Postman" title="Postman" />
+  <img src="./assets/icons/nuget.svg" height="40" alt="NuGet" title="Nuget" />
+  <img src="./assets/icons/canva.svg" height="40" alt="Canva" title="Canva" />
 </p>
 
 <p>
-  <img src="./assets/icons/mysql.svg" height="40" alt="Docker" title="MySQL" />
-  <img src="./assets/icons/mssql.svg" height="40" alt="TypeScript" title="MSSQL" />
+  <img src="./assets/icons/mysql.svg" height="40" alt="MySQL" title="MySQL" />
 </p>
 
 
@@ -43,6 +42,7 @@
   <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai"/>
 </p>
 
+<!--
 
 About!
 - started my programming journey in 2020 during COVID due to boredom, interest in Math and too much time spent on the PC
