@@ -2,7 +2,7 @@
 <p align="center">
   <img width="100%" alt="Hello, I'm Dobby." src="/src/Hi there!.png" />
 </p>
-</kbd>
+
 
 
 
@@ -25,7 +25,7 @@
   <img src="./assets/icons/mysql.svg" height="40" alt="MySQL" title="MySQL" />
 </p>
 
-
+</kbd>
 
 
 <p align="center">
