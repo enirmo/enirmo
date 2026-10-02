@@ -1,12 +1,19 @@
+
+
 <p align="center">
   <img width="100%" alt="Hello, I'm Dobby." src="/src/Hi there! no bckg.png" />
 </p>
 
 <kbd>
-<p align="center">
+
 . . . editing README
 
+<p align="center">
+  <img width="100%" alt="separator line" src="/src/line.png" />
+</p>
+
 ## Tech Stack
+<p align="center">
   <img src="./assets/icons/java.svg" height="40" alt="Java" title="Java" />
   <img src="./assets/icons/NET.svg" height="40" alt=".NET" title=".NET" />
   <img src="./assets/icons/racket.svg" height="40" alt="Racket" title="Racket" />
@@ -18,7 +25,6 @@
   <img src="./assets/icons/nuget.svg" height="40" alt="NuGet" title="NuGet" />
   <img src="./assets/icons/canva.svg" height="40" alt="Canva" title="Canva" />
   <img src="./assets/icons/mysql.svg" height="40" alt="MySQL" title="MySQL" />
-
 </p>
 </kbd>
 
