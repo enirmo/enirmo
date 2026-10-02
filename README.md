@@ -3,18 +3,10 @@
 </p>
 
 <kbd>
-<!--
 <p align="center">
-  <img width="100%" alt="Hello, I'm Dobby." src="/src/Hi there!.png" />
-</p>
--->
-
 . . . editing README
 
 ## Tech Stack
-
-
-<p align="center">
   <img src="./assets/icons/java.svg" height="40" alt="Java" title="Java" />
   <img src="./assets/icons/NET.svg" height="40" alt=".NET" title=".NET" />
   <img src="./assets/icons/racket.svg" height="40" alt="Racket" title="Racket" />
@@ -23,11 +15,11 @@
   <img src="./assets/icons/thymeleaf.svg" height="40" alt="Thymeleaf" title="Thymeleaf" />
   <img src="./assets/icons/docker.svg" height="40" alt="Docker" title="Docker" />
   <img src="./assets/icons/postman.svg" height="40" alt="Postman" title="Postman" />
-  <img src="./assets/icons/nuget.svg" height="40" alt="NuGet" title="Nuget" />
+  <img src="./assets/icons/nuget.svg" height="40" alt="NuGet" title="NuGet" />
   <img src="./assets/icons/canva.svg" height="40" alt="Canva" title="Canva" />
   <img src="./assets/icons/mysql.svg" height="40" alt="MySQL" title="MySQL" />
-</p>
 
+</p>
 </kbd>
 
 
