@@ -1,16 +1,11 @@
 
-
-<p align="center">
-  <img width="100%" alt="Hello, I'm Dobby." src="/src/Hi there! no bckg.png" />
-</p>
-
 <kbd>
+<p align="center">
+  <img width="100%" alt="Hello, I'm Dobby." src="/src/Hi there!.png" />
+</p>
 
 . . . editing README
 
-<p align="center">
-  <img width="100%" alt="separator line" src="/src/line.png" />
-</p>
 
 ## Tech Stack
 <p align="center">
